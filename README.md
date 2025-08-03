@@ -36,7 +36,7 @@ The main objective of this dashboard is to provide an interactive and comprehens
 - 🎯 **Dynamic Filters**  
   Dropdown slicers for Region, City, and Month for interactive filtering.
 
-  ---
+---
 
 ## 🛠️ Tools Used
 
